@@ -6,4 +6,8 @@ namespace tehbeard\SecondPackage;
 
 final class SecondClass
 {
+    public function secondReleaseFunc()
+    {
+        //Does thing needed for second release
+    }
 }
