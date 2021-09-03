@@ -10,4 +10,9 @@ final class FirstClass
     {
         //Does thing needed for first release
     }
+
+    public function thirdUnderMonorepo()
+    {
+        //Does thing needed for third release, which will be handled by monorepo
+    }
 }
