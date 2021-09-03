@@ -1,0 +1,12 @@
+{
+    "name": "tehbeard/second-package",
+    "require": {
+        "php": "^7.2",
+        "symfony/dependency-injection": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "tehbeard\\SecondPackage\\": "src"
+        }
+    }
+}
