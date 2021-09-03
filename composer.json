@@ -19,5 +19,8 @@
     "replace": {
         "tehbeard/first-package": "self.version",
         "tehbeard/second-package": "self.version"
+    },
+    "scripts": {
+        "try-v1-release": "monorepo-builder release 1.0"
     }
 }
